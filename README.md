@@ -192,4 +192,4 @@ This repository serves as the official landing page for Neon Absolute Sans. The 
 **Get the most recent version of Neon Absolute Sans today!**
 
 ---
-**Last updated:** 2026-11-10 03:54:31 UTC
+**Last updated:** 2026-11-10 11:56:53 UTC
